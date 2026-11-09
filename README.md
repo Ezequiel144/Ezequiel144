@@ -8,14 +8,6 @@ Me gusta armar productos web y entender cómo funcionan de punta a punta. Disfru
 
 [LinkedIn](https://www.linkedin.com/in/ezequiel-ulises-garcia-b23585266/) · [Behance](https://www.behance.net/ezequielgarcia18)
 
-## Proyecto destacado
-
-**API de productos · Proyecto final de Backend en Talento Tech**
-
-Desarrollé una API REST con Node.js y Express para listar, buscar, crear y eliminar productos. Usé Cloud Firestore para guardar los datos, protegí el alta y el borrado con JWT y probé las rutas con Postman.
-
-Arranqué con un array en memoria y después lo reemplacé por Firestore. Ahí entendí en la práctica dónde usar `await`, cómo manejar los errores de una consulta y qué responsabilidad tiene cada capa de la API.
-
 ## Herramientas con las que trabajé
 
 <p>
